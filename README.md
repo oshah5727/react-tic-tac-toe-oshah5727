@@ -1,12 +1,29 @@
-# React + Vite
+# Tic Tac Toe - React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Instructions of this assignment are on Canvas.
 
-Currently, two official plugins are available:
+## Checklist
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [ ] frequent commits to github.
+- [ ] filled out the self-evaluation.
 
-## Expanding the ESLint configuration
+## Self Grading Guide
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<!--- Update the following line with your self-grade --->
+<!--- Check the Rubric on Canvas for a guideline --->
+
+I should get **(20 )** out of 20 on this assignment.
+
+## Self-Reflection
+
+- **How long it took me to finish this?**
+  It took me a few hours to finish this.
+
+- **What do you think of this completion time?**
+  I think that this completion time was reasonable, based on the level of difficulty and amount of knowledge I had.
+
+- **In hindsight, what would you do differently?**
+  In hindsight, I would ensure that I understand the syntax and concepts of the assignment efficiently before proceeding to complete it.
+
+- **What resources did you use?**
+  I mainly used a tutorial website to help me build the game since it was included in the assignment instructions. 
